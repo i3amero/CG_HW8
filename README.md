@@ -88,3 +88,6 @@ Lighting highlights the geometry accurately.
 
 Performance is tracked in real-time via FPS measurement.
 
+
+![image](https://github.com/user-attachments/assets/9cfc1400-f2ea-43c7-9862-4e6dea7f1d6b)
+
